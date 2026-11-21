@@ -5,3 +5,5 @@ Trouble with the "Bank Marketing" csv file. Downloading from the "UC Irvine Mach
 Fixed the "Bank Marketing" csv file problem. I didn't recall the ";" problem when I first checked the file, so I checked my downloads for the original download. The original download has the needed "," for the separating format.
 Annoyance with the "Bank Marketing" csv file, seems to be stuck with the name "bank-full (1).csv". I wanted to remove the extra space, and the "(1)" part of it. Removal means losing the data because the data file is too long and renaming in my file folder seems not currently possible. It isn't a big deal, just a nuance of name.
 Worked to set the up the "Bank Marketing" csv file same as "Wholesale customers" csv file where it loads in.
+Commented for the class format.
+Checked for missing data using ".isna().sum()" on both data files, they both returned charts full of 0s assuring me no data is missing.
