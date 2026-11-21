@@ -1,3 +1,7 @@
 Week 1
+Loaded pandas as pd.
 Worked on getting the csv files in order, the "Wholesale customers" csv file seems all good.
-Ran into trouble with the "Bank Marketing" csv file. Downloading from the "UC Irvine Machine Learning Repository" the file is messed up with ";" where there should be "," instead. I don't recall this a problem when I first checked the file so I checked my downloads for the original download. The original download seemed fine so I'm using that. It is the same data but now properly with "," used.
+Trouble with the "Bank Marketing" csv file. Downloading from the "UC Irvine Machine Learning Repository" the file is messed up with ";" where there should be "," instead.
+Fixed the "Bank Marketing" csv file problem. I didn't recall the ";" problem when I first checked the file, so I checked my downloads for the original download. The original download has the needed "," for the separating format.
+Annoyance with the "Bank Marketing" csv file, seems to be stuck with the name "bank-full (1).csv". I wanted to remove the extra space, and the "(1)" part of it. Removal means losing the data because the data file is too long and renaming in my file folder seems not currently possible. It isn't a big deal, just a nuance of name.
+Worked to set the up the "Bank Marketing" csv file same as "Wholesale customers" csv file where it loads in.
