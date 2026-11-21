@@ -1,0 +1,3 @@
+Week 1
+Worked on getting the csv files in order, the "Wholesale customers" csv file seems all good.
+Ran into trouble with the "Bank Marketing" csv file. Downloading from the "UC Irvine Machine Learning Repository" the file is messed up with ";" where there should be "," instead. I don't recall this a problem when I first checked the file so I checked my downloads for the original download. The original download seemed fine so I'm using that. It is the same data but now properly with "," used.
